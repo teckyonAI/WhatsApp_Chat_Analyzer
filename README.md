@@ -35,7 +35,6 @@ Follow these steps to set up the project locally:
     ```bash
     python app.py
 
-
 ## Usage
 
 1. Export your WhatsApp chat (text only, no media) from the WhatsApp app.
