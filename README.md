@@ -45,8 +45,6 @@ Follow these steps to set up the project locally:
 
 This project is configured for deployment on platforms like Heroku. Use the included `Procfile` and `setup.sh` for automatic setup and execution.
 
-
-
 ## Contribution
 
 Contributions are welcome! Here's how you can contribute:
