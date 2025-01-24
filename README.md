@@ -44,7 +44,8 @@ Follow these steps to set up the project locally:
 
 ## Deployment
 
-This project is configured for deployment on platforms like Heroku. 
+This project is configured for deployment on platforms like Heroku. Use the included `Procfile` and `setup.sh` for automatic setup and execution.
+
 
 
 ## Contribution
@@ -53,8 +54,4 @@ Contributions are welcome! Here's how you can contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed explanation of the changes.
-
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
