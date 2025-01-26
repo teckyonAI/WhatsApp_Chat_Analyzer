@@ -1,9 +1,11 @@
 # WhatsApp Chat Analyzer: Insights from Conversations
 
 Unlock the power of your WhatsApp chats! This project offers an advanced analytics platform for extracting meaningful insights from your chat history. Whether you're analyzing group chats or individual messages, this tool makes data visualization and text analysis seamless. By leveraging the power of Python and visualization libraries, you can uncover trends, patterns, and user behavior, providing a deeper understanding of your conversations.
+
 ---
 
 ## Features
+
 - **Chat Preprocessing**: Cleans and structures raw chat exports for seamless analysis, including date, time, sender, and message parsing.
 - **Statistical Insights**: Gain an overview of your chat history with metrics such as:
   - Total messages
